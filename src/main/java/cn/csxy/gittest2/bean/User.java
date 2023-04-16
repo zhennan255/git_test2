@@ -10,5 +10,6 @@ public class User {
         System.out.println("pull test");
         System.out.println("pull test1");
 
+         System.out.println("pull test2");
     }
 }
